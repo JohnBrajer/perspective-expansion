@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "Perspective Expansion by John Brajer"
 abstract: "Perspective Expansion by John Brajer: expand the recognized action space before optimizing a decision."
 type: software
+doi: "10.5281/zenodo.23718113"
 authors:
   - family-names: Brajer
     given-names: John
